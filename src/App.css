@@ -1,0 +1,15 @@
+.app-style {
+  display: flex;
+  padding: 100px;
+  gap: 15px;
+  justify-content: center;
+}
+.box-style {
+  width: 100px;
+  height: 100px;
+  border: 2px solid green;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
